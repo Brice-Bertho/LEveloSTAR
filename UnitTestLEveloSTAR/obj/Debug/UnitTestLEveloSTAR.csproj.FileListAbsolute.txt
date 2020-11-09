@@ -1,0 +1,35 @@
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\UnitTestLEveloSTAR.dll
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\UnitTestLEveloSTAR.pdb
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\LEveloSTAR.exe
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\LEveloSTAR.pdb
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\obj\Debug\UnitTestLEveloSTAR.csprojResolveAssemblyReference.cache
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\obj\Debug\UnitTestLEveloSTAR.dll
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\obj\Debug\UnitTestLEveloSTAR.pdb
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\Newtonsoft.Json.dll
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\Newtonsoft.Json.pdb
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\Newtonsoft.Json.xml
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\GMap.NET.Core.dll
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\GMap.NET.WindowsForms.dll
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\GMap.NET.Core.xml
+C:\JM\Visual Studio Projets\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\GMap.NET.WindowsForms.xml
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\UnitTestLEveloSTAR.dll
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\UnitTestLEveloSTAR.pdb
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\LEveloSTAR.exe
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\Newtonsoft.Json.dll
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\LEveloSTAR.pdb
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\Newtonsoft.Json.pdb
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\Newtonsoft.Json.xml
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\obj\Debug\UnitTestLEveloSTAR.csprojResolveAssemblyReference.cache
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\obj\Debug\UnitTestLEveloSTAR.dll
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\obj\Debug\UnitTestLEveloSTAR.pdb
+C:\JM\Travail\SIO2\2.3 - Services web VeloStar\Client C# service VeloStar - v10\LEveloSTAR\UnitTestLEveloSTAR\obj\Debug\UnitTestLEveloSTAR.csprojResolveAssemblyReference.cache
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\UnitTestLEveloSTAR\obj\Debug\UnitTestLEveloSTAR.csprojResolveAssemblyReference.cache
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\UnitTestLEveloSTAR.dll
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\UnitTestLEveloSTAR.pdb
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\LEveloSTAR.exe
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\LEveloSTAR.pdb
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\UnitTestLEveloSTAR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\UnitTestLEveloSTAR\obj\Debug\UnitTestLEveloSTAR.dll
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\UnitTestLEveloSTAR\obj\Debug\UnitTestLEveloSTAR.pdb

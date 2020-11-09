@@ -1,0 +1,46 @@
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\bin\Debug\LEveloSTAR.exe.config
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.Properties.Resources.resources
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.csproj.GenerateResource.Cache
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\bin\Debug\LEveloSTAR.exe
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\bin\Debug\LEveloSTAR.pdb
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.exe
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.pdb
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\bin\Debug\Newtonsoft.Json.dll
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\bin\Debug\Newtonsoft.Json.pdb
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\bin\Debug\Newtonsoft.Json.xml
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\bin\Debug\GMap.NET.Core.dll
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\bin\Debug\GMap.NET.WindowsForms.dll
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\bin\Debug\GMap.NET.Core.xml
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\bin\Debug\GMap.NET.WindowsForms.xml
+C:\JM\Visual Studio Projets\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.FrmStations.resources
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\bin\Debug\LEveloSTAR.exe.config
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.exe
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.pdb
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\bin\Debug\LEveloSTAR.exe
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\bin\Debug\LEveloSTAR.pdb
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\bin\Debug\Newtonsoft.Json.dll
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.Properties.Resources.resources
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.csproj.GenerateResource.Cache
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\bin\Debug\Newtonsoft.Json.pdb
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\bin\Debug\Newtonsoft.Json.xml
+C:\JM\Travail\SIO2\2.3 - Services web Velib et VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.csprojResolveAssemblyReference.cache
+C:\JM\Travail\SIO2\2.3 - Services web VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\bin\Debug\LEveloSTAR.exe.config
+C:\JM\Travail\SIO2\2.3 - Services web VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.csprojResolveAssemblyReference.cache
+C:\JM\Travail\SIO2\2.3 - Services web VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.Properties.Resources.resources
+C:\JM\Travail\SIO2\2.3 - Services web VeloStar\Client C# service VeloStar - v10\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.csproj.GenerateResource.Cache
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\bin\Debug\LEveloSTAR.exe.config
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.csprojResolveAssemblyReference.cache
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.Properties.Resources.resources
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.csproj.GenerateResource.Cache
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\bin\Debug\LEveloSTAR.exe
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\bin\Debug\LEveloSTAR.pdb
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.exe
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.pdb
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\bin\Debug\GMap.NET.Core.dll
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\bin\Debug\GMap.NET.Core.xml
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\bertho.b\Desktop\SLAM 4-5\SLAM 4-5\2.4 - Services web VeloStar\LEveloSTAR\LEveloSTAR\obj\Debug\LEveloSTAR.FrmStations.resources

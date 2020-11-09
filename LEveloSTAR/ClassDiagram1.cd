@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LEveloSTAR.ListeStations">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAQAAAQAAAAAABAAQAAAAAAABAACAAAAAAABM=</HashCode>
+      <FileName>ListeStations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LEveloSTAR.Passerelle">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAEAAAAAAACAAAABAAAAAAAAIAAA=</HashCode>
+      <FileName>Passerelle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LEveloSTAR.PasserelleJSON">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAABFAAAAAACACACAAAAAAAAAAAAA=</HashCode>
+      <FileName>PasserelleJSON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LEveloSTAR.Program">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LEveloSTAR.Station">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACCAAAIEAAAAAEAIBIAAAABCACQAAAAAAAQAAgkAQ=</HashCode>
+      <FileName>Station.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
